@@ -1,5 +1,7 @@
 # AI Chess Game with Minimax and Alpha-Beta Pruning
 
+> **Built by [Abdul Qudoos](https://www.abdul-qudoos.com)**, AI Automation & Forward Deployed Engineer · [More projects](https://www.abdul-qudoos.com/work)
+
 ## Project Overview
 
 This project implements a chess game with an AI opponent using the minimax algorithm with alpha-beta pruning. The implementation focuses on efficient move evaluation and decision-making.
@@ -222,4 +224,15 @@ Potential enhancements include:
 - More sophisticated evaluation functions
 - Iterative deepening for time management
 - Transposition table for caching evaluated positions
-- Multi-threading for parallel position evaluation 
+- Multi-threading for parallel position evaluation
+
+---
+
+## About the author
+
+I'm **Abdul Qudoos**, an AI automation and forward deployed engineer based in Islamabad, Pakistan. I build production AI agents, voice agents, workflow automation, and the full-stack products around them.
+
+- Portfolio: [abdul-qudoos.com](https://www.abdul-qudoos.com)
+- Case studies: [abdul-qudoos.com/work](https://www.abdul-qudoos.com/work)
+- LinkedIn: [Abdul Qudoos](https://www.linkedin.com/in/abdul-qudoos-9a4640324/)
+- Email: abdulqudoos7113@gmail.com
